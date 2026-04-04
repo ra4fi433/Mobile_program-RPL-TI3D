@@ -1,7 +1,15 @@
 # Mobile-Device-Programing_TI3D-RPL
 This Repository created for education purpose. In fulfilling assignments for mobile device programming courses. in this repository will filled of assignment and project also jobsheet from our mentor and lecture.
+Our lecturer teaches courses related to mobile programs
+This project was developed as part of a Mobile Programming assignment using the following technologies:
 
-All of these project is use Dart and flutter.
+        Language: Dart (Version 3.11+)
+
+        Framework: Flutter (UI Toolkit for Mobile)
+
+        Editor: DartPad.dev (Online Compiler)
+
+        Platform: Cross-platform (Android & iOS compatible)
 
 first week jobsheet here :
         [View Assignment Script](jobsheet1/jobsheet1.dart)
