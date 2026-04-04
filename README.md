@@ -11,5 +11,19 @@ This project was developed as part of a Mobile Programming assignment using the 
 
         Platform: Cross-platform (Android & iOS compatible)
 
-first week jobsheet here :
+first week Assignment here :
         [View Assignment Script](jobsheet1/jobsheet1.dart)
+content of fist week assignment is :
+
+        List of Restaurant menu
+
+        Circle formula of area and radius
+
+        Calculation of shoes discount price
+
+        Thermal Formula for Converter from Celcius to Reamur and Farenheit
+
+Second Week Assignment :
+        [View Assignment Script](jobsheet1/jobsheet1.dart)
+Content of Second week Assignment is :
+        Slides for Idea of Final Project on these semester
