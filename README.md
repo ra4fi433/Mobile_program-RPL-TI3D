@@ -25,5 +25,6 @@ content of fist week assignment is :
 
 Second Week Assignment :
         [View Submitted Assignment](https://canva.link/o2v8hladuonsipy)
-Content of Second week Assignment is :
+        
+        Content of Second week Assignment is :
         Slides for Idea of Final Project on these semester
