@@ -4,7 +4,7 @@
 Project based on 6th Jobsheet from Mobile Device Programming Course
 content of these project is about Navigation and Routing of apps
 here you can look to main script :
-[Main Scripts](lib/main.dart)
+[Main Scripts](route_navigationlib/main.dart)
 
 
 ## Getting Started
