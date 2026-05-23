@@ -53,3 +53,9 @@ Second Week Assignment :
         Content of these Assignment is :
                 - Navigate Screen
                 - Routing Screen
+7th Assignment Here :
+        [View Submitted Assignment](jobsheet7/README.md)
+
+        Content of these Assignment is :
+                - API Method
+                - Shared Preferences
