@@ -32,13 +32,13 @@ run command
 
 #### 1. GET Implementation
 > [!TIP]
-> ![Alt text](result/dashboard.png)
+> ![Alt text](result/dashboard-1.png)
 #### 2. POST Implementation
 > [!TIP]
 > 
 #### 3. PATCH Implementation
 > [!TIP]
-> ![Alt text](result/patch.png)
+> ![Alt text](result/patch-1.png)
 #### 4. DELETE Implementation
 > [!TIP]
 > 
