@@ -40,4 +40,4 @@ run command
 
 #### 5. Error Handling
 > [!TIP]
-> 
+> ![Alt text](result/error.png)
