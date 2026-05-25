@@ -33,15 +33,11 @@ run command
 #### 1. GET Implementation
 > [!TIP]
 > ![Alt text](result/dashboard-1.png)
-#### 2. POST Implementation
+
+#### 2. POST, Patch, And Delete Implementation
 > [!TIP]
-> 
-#### 3. PATCH Implementation
-> [!TIP]
-> ![Alt text](result/patch-1.png)
-#### 4. DELETE Implementation
-> [!TIP]
-> 
+> ![Alt text](result/api.png)
+
 #### 5. Error Handling
 > [!TIP]
 > 
