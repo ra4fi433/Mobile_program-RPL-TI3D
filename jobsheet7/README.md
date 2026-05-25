@@ -38,6 +38,6 @@ run command
 > [!TIP]
 > ![Alt text](result/api.png)
 
-#### 5. Error Handling
+#### 3. Error Handling
 > [!TIP]
 > ![Alt text](result/error.png)
