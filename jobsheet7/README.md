@@ -32,16 +32,16 @@ run command
 
 #### 1. GET Implementation
 > [!TIP]
-> Place your list screen screenshot here.
+> ![Alt text](result/dashboard.png)
 #### 2. POST Implementation
 > [!TIP]
-> Place your SnackBar or success log here.
+> 
 #### 3. PATCH Implementation
 > [!TIP]
-> Place your post-update screenshot or log here.
+> ![Alt text](result/patch.png)
 #### 4. DELETE Implementation
 > [!TIP]
-> Place your deletion success SnackBar or log here.
+> 
 #### 5. Error Handling
 > [!TIP]
-> Place your error or retry state screen here.
+> 
