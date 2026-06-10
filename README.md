@@ -60,8 +60,10 @@ Second Week Assignment :
                 - API Method
                 - Shared Preferences
 Final Project Assignment :
-        can review below these Uri
-        [View Submitted Assignment](Final-Project/README.md)
+
+ can review below these Uri
+        
+   [View Submitted Assignment](Final-Project/README.md)
 
         Contenr of these project :
                 - Push Notifications
