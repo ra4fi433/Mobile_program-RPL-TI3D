@@ -59,3 +59,12 @@ Second Week Assignment :
         Content of these Assignment is :
                 - API Method
                 - Shared Preferences
+Final Project Assignment :
+        can review below these Uri
+        [View Submitted Assignment](Final-Project/README.md)
+
+        Contenr of these project :
+                - Push Notifications
+                - GPS and Camera Functions
+                - File uploads
+                - Minimum numbers of Screens/ Pages
